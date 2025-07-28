@@ -31,6 +31,10 @@ logs/
 wrangler.toml.backup
 *.sqlite
 *.sqlite3
+.wrangler/
+
+# Build outputs
+dist/
 
 # IDE
 .vscode/
